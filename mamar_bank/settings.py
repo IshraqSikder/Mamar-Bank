@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-@@l_$-w_i*pe!qj5$2r+2+o5uy$-oagcew$_20-sm_m-w!t*a^
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ['https://mamar-bank.onrender.com','https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://mamar-bank-511f.onrender.com','https://*.127.0.0.1']
 
 
 # Application definition
